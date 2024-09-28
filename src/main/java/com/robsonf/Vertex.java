@@ -1,4 +1,5 @@
 package com.robsonf;
 
-public class Vortex {
+public class Vertex {
+
 }
