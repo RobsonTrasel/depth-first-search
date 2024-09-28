@@ -27,13 +27,13 @@ Este projeto implementa o algoritmo de Busca em Profundidade (DFS) em Java. A DF
 
 ## Exemplo de Grafo Criado:
 ```mathematic
-A
-/   \
+  A
+ /  \
 B     C
-|
-D
-|
-E
+      |
+      D
+      |
+      E
 ```
 A DFS começa no vértice A, explora B, e em seguida explora C, D, e E.
 
